@@ -13,7 +13,7 @@ void setup() {
 
     if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
         for (;;) { delay(100); }
-        //display begin can failed if so halt...
+        //display begin can failed if so halt
     }
 
     display.clearDisplay();
