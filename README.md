@@ -2,6 +2,7 @@
 # Flappy Bird on ESP32 + SSD1306
 
 Simple Flappy Bird style game made with ESP32, Arduino framework, and a 128x64 SSD1306 OLED.
+Demo: https://www.instagram.com/reel/DV0zjzuk2FA/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 
 ## What This Project Does
 
