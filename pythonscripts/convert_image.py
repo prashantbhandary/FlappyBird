@@ -79,7 +79,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         img_path = sys.argv[1]
     else:
-        img_path = "../img/balen.png"
+        img_path = "../img/image.png"
     
     # Get dimensions
     width = int(sys.argv[2]) if len(sys.argv) > 2 else 128
